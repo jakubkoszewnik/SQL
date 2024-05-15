@@ -1,7 +1,7 @@
 # SQL
 Using PostGres SQL i've done few tasks:
 
-# marketing_metrics
+# Marketing_Metrics
 In the SQL query with CTE, combine data from these tables to obtain:
 
 ad_date: the date of displaying ads on Google and Facebook;
